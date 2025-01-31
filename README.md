@@ -37,8 +37,8 @@
 - Github: https://github.com/EugenioUrbano/IFSHOP-PROJETO_FINAL
 
 ### Biblioteca Inteligente
-- Equipe: Maria Clara Ferreira da Silva / Maria Gabriely Souza de Moura / Sara Monalisa Carlos da Silva
-- Descrição: A Biblioteca Inteligente é um software de gerenciamento para registrar movimentações de livros em bibliotecas de escolas públicas. Seu objetivo é criar um sistema online que melhore as ferramentas de gerenciamento e suprima a falta de tecnologia nas escolas. O sistema permitirá cadastros, acesso e consultas online, facilitando o uso tanto para administradores quanto para usuários, presencialmente ou remotamente.
+- Equipe: [Maria Clara](https://github.com/Clara66666), [Maria Gabriely](https://github.com/gaabyssouza), [Sara Monalisa](https://github.com/saramonalisa)
+- Descrição: A Biblioteca Inteligente é um software de gerenciamento para registrar movimentações de livros em bibliotecas de escolas públicas. Seu objetivo é criar um sistema online que melhore as ferramentas de gerenciamento e suprima a falta de tecnologia nas escolas. 
 - Github: https://github.com/saramonalisa/biblioteca-inteligente
 
 ### Mapa da Jornada
