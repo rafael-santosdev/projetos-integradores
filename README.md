@@ -17,7 +17,7 @@
 - Github: https://github.com/mateusaccount/Projeto_aerofacil
 
 ### Plataforma dos Projetos Integradores
-- Equipe: Ellainy Nayara, Wescley Plínio, João Henrique.
+- Equipe: Ellainy Nayara, [Wescley Plínio](https://github.com/WescleyPlinio), João Henrique.
 - Descrição: A Plataforma dos Projetos Integradores se trata de um repositório. E seu principal objetivo é permitir o acesso público aos projetos desenvolvidos pelos alunos do IFRN campus São Paulo do Potengi.
 - Github: https://github.com/WescleyPlinio/PPI
 
