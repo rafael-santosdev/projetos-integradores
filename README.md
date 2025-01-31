@@ -34,7 +34,7 @@
 ### IFSHOP
 - Equipe: Eugênio Urbano, Helloar Costa, Milleny Jamily
 - Descrição: O IFSHOP é um sistema de compra e venda que atua dentro do campus IFRN São Paulo do Potengi. Focado na divulgação e venda de produtos como fardamentos e camisetas esportivas, este sistema busca facilitar o comércio entre os discentes e público externo ao campus.
-- Github: https://github.com/EugenioUrbano/IFSHOP-PROJETO_FINAL.git
+- Github: https://github.com/EugenioUrbano/IFSHOP-PROJETO_FINAL
 
 ### Biblioteca Inteligente
 - Equipe: Maria Clara Ferreira da Silva / Maria Gabriely Souza de Moura / Sara Monalisa Carlos da Silva
@@ -49,4 +49,4 @@
 ### OrganizeMe
 - Equipe: Fernanda Liliam Dias Ferreira
 - Descrição: O projeto foi pensado em ajudar os alunos a organizar as atividades escolares.
-- Github: https://github.com/Fernanda84/OrganizeMe.git
+- Github: https://github.com/Fernanda84/OrganizeMe
