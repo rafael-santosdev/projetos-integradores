@@ -44,7 +44,7 @@
 ### Mapa da Jornada
 - Equipe: Eduardo Mauricio, Thierry henry, Jean Lucas
 - Descrição: Somos uma plataforma educativa na área de informática, na qual organizamos os quatro anos do curso, separamos as matérias e as explicamos.
-- Github: https://github.com/Projetto-Integrador/nossorep.githttps://github.com/Projetto-Integrador/nossorep.git
+- Github: https://github.com/Projetto-Integrador/nossorep
 
 ### OrganizeMe
 - Equipe: Fernanda Liliam Dias Ferreira
