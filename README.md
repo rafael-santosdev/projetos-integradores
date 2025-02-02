@@ -27,7 +27,7 @@
 - Github: https://github.com/ProjetoIntegradorAle/biblioteca_virtual
 
 ### InfoHelp
-- Equipe: Antônio Antunes, João Maria e Pedro Isaac
+- Equipe: [Antônio Antunes](https://github.com/tonhoantunes), [João Maria](https://github.com/jm-bass) e [Pedro Isaac](https://github.com/PedroIsaac09)
 - Descrição: O InfoHelp se trata de uma plataforma de cursos (específicamente cursos de softwares de escritório). 
 - Github: https://github.com/tonhoantunes/infohelp
 
