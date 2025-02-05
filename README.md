@@ -2,7 +2,7 @@
 
 ## 2024
 ### FFA .finance
-- Equipe: Ademacir Filho, Francisco Cledson e Francisco Guilherme
+- Equipe: [Ademacir Filho](https://github.com/ademacirfilho), [Francisco Cledson](https://github.com/deAssisF) e [Francisco Guilherme](https://github.com/FGMDev)
 - Descrição: FFA .finance é um sistema de gerenciamento financeiro desenvolvido especialmente para microempresas. Ele foi idealizado para auxiliar indivíduos no planejamento, organização e controle de suas finanças, oferecendo uma solução prática e eficiente para a gestão financeira do dia a dia.
 - Github: https://github.com/ademacirfilho/FFA.finance
 
