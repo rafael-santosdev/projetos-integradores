@@ -50,3 +50,12 @@
 - Equipe: Fernanda Liliam Dias Ferreira
 - Descrição: O projeto foi pensado em ajudar os alunos a organizar as atividades escolares.
 - Github: https://github.com/Fernanda84/OrganizeMe
+
+---
+
+## 2023
+
+### INFOMUSICA
+- Equipe: [Ana Barbosa](https://github.com/dvanael/), [Elyabe de Medeiros](https://github.com/elyabe306/), [João Pedro Moura](https://github.com/JoaoP360), [Weverton Antônio](https://github.com/WevertonDv)
+- Descrição: Um sistema web para agendamento de reservas do laboratório de práticas musicais do IFRN Campus SPP. Adicionalmente, possui um sistema de postagem do tipo blog e de exibição do inventário do laboratório.
+- Github: https://github.com/dvanael/infomusica/releases/tag/v1.0.1
