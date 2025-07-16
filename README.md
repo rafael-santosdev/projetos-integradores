@@ -1,5 +1,9 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
-
+## 2025
+### Potengi Digital: Tecnologia, Formação e Mundo do Trabalho na Região Potengi
+- Equipe: [Clara Souza](https://github.com/clarasouzas), [Joice Santos](https://github.com/jleilhany), [Elayne Fernandes](https://github.com/elaynefernandes)
+- Descrição: O projeto tem como finalidade mapear as demandas de Tecnologia da Informação (TI) e acompanhar as dinâmicas do mundo do trabalho na região do Potengi/RN, visando fortalecer a inserção profissional dos estudantes dos cursos técnicos do IFRN – Campus São Paulo do Potengi.
+- Github: https://github.com/clarasouzas/potengi-digital
 ## 2024
 ### FFA .finance
 - Equipe: [Ademacir Filho](https://github.com/ademacirfilho), [Francisco Cledson](https://github.com/deAssisF) e [Francisco Guilherme](https://github.com/FGMDev)
