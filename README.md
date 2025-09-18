@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2025
 
+### Plataforma da Rádio IFRN-SPP
+- Equipe: [Anny Carolline](https://github.com/annycrv), [Williany Vitória](https://github.com/williany12)
+- Descrição: O projeto tem como objetivo construir um sistema para a rádio do IFRN – Campus São Paulo do Potengi, com o propósito de divulgar o projeto de extensão e facilitar o acesso às informações e conteúdos produzidos pela rádio.
+- Github: https://github.com/annycrv/RadioIFRNSPP
+
 ### Gabarita IF
 - Equipe: [Anna Beatriz](https://github.com/beagginn) e [Gabriela Maia](https://github.com/gabrielafmaia)
 - Descrição: Gabarita IF é um sistema educacional desenvolvido para apoiar estudantes na preparação para o Exame de Seleção do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). O software tem como principal objetivo manter uma base de dados com questões de processos seletivos anteriores divulgados pelo próprio IFRN, permitindo que os alunos exercitem seus conhecimentos de forma eficiente e acompanhem seu progresso de aprendizagem.
