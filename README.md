@@ -1,5 +1,10 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2025
+### BE-Desk 
+- Equipe: [Willianny lima](https://github.com/WilliannyLima), [Igor Murilo](https://github.com/devigMurilo), [Wallison Andre](https://github.com/WallisonAndre)
+- Descrição: O projeto consiste no desenvolvimento de um sistema online de cadastro, reservas e solicitação de materiais esportivos para o Bloco E do IFRN-SPP. O sistema busca substituir o modelo atual, que depende de atendimentos presenciais, por uma solução digital, prática e acessível a toda a comunidade acadêmica.
+- Github: https://github.com/WilliannyLima/BE-Desk
+
 ### Potengi Digital: Tecnologia, Formação e Mundo do Trabalho na Região Potengi
 - Equipe: [Clara Souza](https://github.com/clarasouzas), [Joice Santos](https://github.com/jleilhany), [Elayne Fernandes](https://github.com/elaynefernandes)
 - Descrição: O projeto tem como finalidade mapear as demandas de Tecnologia da Informação (TI) e acompanhar as dinâmicas do mundo do trabalho na região do Potengi/RN, visando fortalecer a inserção profissional dos estudantes dos cursos técnicos do IFRN – Campus São Paulo do Potengi.
