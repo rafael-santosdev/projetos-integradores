@@ -2,9 +2,9 @@
 ## 2025
 
 ### SARC: Sistema de Agendamento e Reserva dos Computadores
-- Equipe: [Paulo Gabriel](https://github.com/Pauloglf), [José Alexandre](https://github.com/ZeAlxandre5), [Artur Felipe](https://github.com/arturfew)
+- Equipe: [Paulo Gabriel](https://github.com/Pauloglf), [José Alexandre](https://github.com/ZeAlexandre5), [Artur Felipe](https://github.com/arturfew)
 - Descrição: O projeto tem como finalidade auxiliar agendar computadores dos laboratórios de informatica.
-- Github: https://github.com//ZeAlxandre5/SARC
+- Github: https://github.com//ZeAlexandre5/SARC
   
 ### Potengi Digital: Tecnologia, Formação e Mundo do Trabalho na Região Potengi
 - Equipe: [Clara Souza](https://github.com/clarasouzas), [Joice Santos](https://github.com/jleilhany), [Elayne Fernandes](https://github.com/elaynefernandes)
