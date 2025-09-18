@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2025
 
+### Gabarita IF
+- Equipe: [Anna Beatriz](https://github.com/beagginn) e [Gabriela Maia](https://github.com/gabrielafmaia)
+- Descrição: Gabarita IF é um sistema educacional desenvolvido para apoiar estudantes na preparação para o Exame de Seleção do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). O software tem como principal objetivo manter uma base de dados com questões de processos seletivos anteriores divulgados pelo próprio IFRN, permitindo que os alunos exercitem seus conhecimentos de forma eficiente e acompanhem seu progresso de aprendizagem.
+- Github: https://github.com/gabrielafmaia/gabarita-if
+
 ### YTTrack
 -Equipe: [Maria Paula felix](https://github.com/mpfelix).
 -Descrição: O projeto é um sistema do youtube que ajuda a organizar e acompanhar quadros de canais de youtubers, facilitando o consumo de conteúdo de forma mais organizada.
