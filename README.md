@@ -1,5 +1,9 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2025
+### Control
+- Equipe: [Fernando César](https://github.com/cesarfcg), [Pedro Henrique](https://github.com/Pedro44-henrique44), [Lucas Thierry](https://github.com/lucasthierry9)
+- Descrição: O Control é um software que ajuda empresas a gerir seus negócios, através de cadastro de produtos, clientes, análise de vendas, entre outros. Através dele, as empresas poderão se cadastrar e ter acesso à dashboards, gráficos e outras funcionalidades que atuam perante o gerenciamento de vendas de sua empresa.
+- Github: https://github.com/lucasthierry9/Control
 
 ### SARC: Sistema de Agendamento e Reserva dos Computadores
 - Equipe: [Paulo Gabriel](https://github.com/Pauloglf), [José Alexandre](https://github.com/ZeAlexandre5), [Artur Felipe](https://github.com/arturfew)
