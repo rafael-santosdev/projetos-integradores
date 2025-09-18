@@ -1,5 +1,10 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2025
+### Didacta Vision
+- Equipe: [Álvaro Yuri](https://github.com/alvarogit-ops), [Danilo Lima](https://github.com/dlslima) e [Rafael dos Santos](https://github.com/rafael-santosdev)
+- Descrição: O projeto é um sistema web educacional para gerenciar e divulgar sessões de filmes com temáticas científicas, permitindo que a comunidade visualize a agenda de sessões, e acesse conteúdos educativos na instituição.
+- Github: https://github.com/rafael-santosdev/Didacta-Vision
+
 ### Control
 - Equipe: [Fernando César](https://github.com/cesarfcg), [Pedro Henrique](https://github.com/Pedro44-henrique44), [Lucas Thierry](https://github.com/lucasthierry9)
 - Descrição: O Control é um software que ajuda empresas a gerir seus negócios, através de cadastro de produtos, clientes, análise de vendas, entre outros. Através dele, as empresas poderão se cadastrar e ter acesso à dashboards, gráficos e outras funcionalidades que atuam perante o gerenciamento de vendas de sua empresa.
