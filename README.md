@@ -1,14 +1,41 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2025
+
 ### Plataforma da Rádio IFRN-SPP
 - Equipe: [Anny Carolline](https://github.com/annycrv), [Williany Vitória](https://github.com/williany12)
 - Descrição: O projeto tem como objetivo construir um sistema para a rádio do IFRN – Campus São Paulo do Potengi, com o propósito de divulgar o projeto de extensão e facilitar o acesso às informações e conteúdos produzidos pela rádio.
 - Github: https://github.com/annycrv/RadioIFRNSPP
+
+### Gabarita IF
+- Equipe: [Anna Beatriz](https://github.com/beagginn) e [Gabriela Maia](https://github.com/gabrielafmaia)
+- Descrição: Gabarita IF é um sistema educacional desenvolvido para apoiar estudantes na preparação para o Exame de Seleção do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). O software tem como principal objetivo manter uma base de dados com questões de processos seletivos anteriores divulgados pelo próprio IFRN, permitindo que os alunos exercitem seus conhecimentos de forma eficiente e acompanhem seu progresso de aprendizagem.
+- Github: https://github.com/gabrielafmaia/gabarita-if
+
+### SARC: Sistema de Agendamento e Reserva dos Computadores
+- Equipe: [Paulo Gabriel](https://github.com/Pauloglf), [José Alexandre](https://github.com/ZeAlexandre5), [Artur Felipe](https://github.com/arturfew)
+- Descrição: O projeto tem como finalidade auxiliar agendar computadores dos laboratórios de informatica.
+- Github: https://github.com//ZeAlexandre5/SARC
   
+### BE-Desk 
+- Equipe: [Willianny lima](https://github.com/WilliannyLima), [Igor Murilo](https://github.com/devigMurilo), [Wallison Andre](https://github.com/WallisonAndre)
+- Descrição: O projeto consiste no desenvolvimento de um sistema online de cadastro, reservas e solicitação de materiais esportivos para o Bloco E do IFRN-SPP. O sistema busca substituir o modelo atual, que depende de atendimentos presenciais, por uma solução digital, prática e acessível a toda a comunidade acadêmica.
+- Github: https://github.com/WilliannyLima/BE-Desk
+
+### YTTrack
+- Equipe: [Maria Paula felix](https://github.com/mpfelix).
+- Descrição: O projeto é um sistema do youtube que ajuda a organizar e acompanhar quadros de canais de youtubers, facilitando o consumo de conteúdo de forma mais organizada.
+- Github: https://github.com/mpfelix/YTTrack
+
+### Rumix - Administração das propriedades no campo rural
+- Equipe [Matheus Fabricio](https://github.com/MatheusFabSouza), [Gabriel Sinedino](https://github.com/GSO-GPU), [João Paulo](https://github.com/dvjpa).
+- Descrição: Rumix é um projeto voltado para a área rural, com foco na administração de propriedades.
+- Github: https://github.com/MatheusFabSouza/Rumix
+
 ### Potengi Digital: Tecnologia, Formação e Mundo do Trabalho na Região Potengi
 - Equipe: [Clara Souza](https://github.com/clarasouzas), [Joice Santos](https://github.com/jleilhany), [Elayne Fernandes](https://github.com/elaynefernandes)
 - Descrição: O projeto tem como finalidade mapear as demandas de Tecnologia da Informação (TI) e acompanhar as dinâmicas do mundo do trabalho na região do Potengi/RN, visando fortalecer a inserção profissional dos estudantes dos cursos técnicos do IFRN – Campus São Paulo do Potengi.
 - Github: https://github.com/clarasouzas/potengi-digital
+
 ## 2024
 ### FFA .finance
 - Equipe: [Ademacir Filho](https://github.com/ademacirfilho), [Francisco Cledson](https://github.com/deAssisF) e [Francisco Guilherme](https://github.com/FGMDev)
